@@ -1,3 +1,5 @@
 # beater7.github.io
 
-http://localhost:55822/index.html
+* [Module 2](https://beater7.github.io/module-2/index.html)
+
+beater7.github.io/module-2/index.html
